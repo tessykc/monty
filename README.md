@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 0x19. C - Stacks, Queues - LIFO, FIFO
 
 C
@@ -1308,6 +1309,9 @@ File: 1003-mul.bf
   
 
 Copyright © 2022 ALX, All rights reserved.
+=======
+Monty bytecodes interpreter by Tessykc and soonyemma [by Alx].
+>>>>>>> 7a6a47b4d55f11cef779cb48a8babe2424c2a464
 =======
 Monty bytecodes interpreter by Tessykc and soonyemma [by Alx].
 >>>>>>> 7a6a47b4d55f11cef779cb48a8babe2424c2a464
